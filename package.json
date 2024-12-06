@@ -10,7 +10,8 @@
     "format": "prettier --check --ignore-path .gitignore .",
     "format:fix": "prettier --write --ignore-path .gitignore .",
     "prepare": "husky",
-    "lint:fix": "next lint --fix"
+    "lint:fix": "next lint --fix",
+    "commit": "commit"
   },
   "dependencies": {
     "@radix-ui/react-icons": "^1.3.0",

@@ -6,8 +6,7 @@ import { NODE_TARGET } from '@/helper';
 
 export const metadata: Metadata = {
   title: 'Ngodingin Indonesia',
-  description:
-    'Ngodingin Indonesia',
+  description: 'Ngodingin Indonesia',
   robots: NODE_TARGET === 'production' ? 'index,follow' : 'noindex,nofollow',
   alternates: {
     canonical: '/',

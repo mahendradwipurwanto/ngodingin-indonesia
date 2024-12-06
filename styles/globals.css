@@ -83,7 +83,7 @@ body {
   }
 
   * {
-    @apply text-dark-70 font-sans;
+    @apply font-sans text-dark-70;
   }
 }
 
@@ -106,251 +106,250 @@ body {
   }
 
   .h1-500 {
-      @apply font-title;
-      font-size: 40px;
-      font-weight: 500;
-      line-height: 48px;
-      letter-spacing: 0px;
+    @apply font-title;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 48px;
+    letter-spacing: 0px;
   }
 
   .h2-700 {
-      @apply font-title;
-      font-size: 36px;
-      font-weight: 700;
-      line-height: 44px;
-      letter-spacing: 0px;
+    @apply font-title;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0px;
   }
 
   .h2-500 {
-      @apply font-title;
-      font-size: 36px;
-      font-weight: 500;
-      line-height: 44px;
-      letter-spacing: 0px;
+    @apply font-title;
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 44px;
+    letter-spacing: 0px;
   }
 
   .h3-700 {
-      @apply font-title;
-      font-size: 32px;
-      font-weight: 700;
-      line-height: 40px;
-      letter-spacing: 0px;
+    @apply font-title;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0px;
   }
 
   .h3-500 {
-      @apply font-title;
-      font-size: 32px;
-      font-weight: 500;
-      line-height: 40px;
-      letter-spacing: 0px;
+    @apply font-title;
+    font-size: 32px;
+    font-weight: 500;
+    line-height: 40px;
+    letter-spacing: 0px;
   }
 
   .h3-400 {
-      @apply font-title;
-      font-size: 32px;
-      font-weight: 400;
-      line-height: 40px;
-      letter-spacing: 0px;
+    @apply font-title;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 40px;
+    letter-spacing: 0px;
   }
 
   .h4-700 {
-      @apply font-title;
-      font-size: 28px;
-      font-weight: 700;
-      line-height: 36px;
-      letter-spacing: 0px;
+    @apply font-title;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0px;
   }
 
   .h4-500 {
-      @apply font-title;
-      font-size: 28px;
-      font-weight: 500;
-      line-height: 36px;
-      letter-spacing: 0px;
+    @apply font-title;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 36px;
+    letter-spacing: 0px;
   }
 
   .h5-700 {
-      @apply font-title;
-      font-size: 24px;
-      font-weight: 700;
-      line-height: 32px;
-      letter-spacing: 0px;
+    @apply font-title;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0px;
   }
 
   .h5-500 {
-      @apply font-title;
-      font-size: 24px;
-      font-weight: 500;
-      line-height: 32px;
-      letter-spacing: 0px;
+    @apply font-title;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0px;
   }
 
   .h6-700 {
-      @apply font-title;
-      font-size: 20px;
-      font-weight: 700;
-      line-height: 28px;
-      letter-spacing: 0px;
+    @apply font-title;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0px;
   }
 
   .h6-500 {
-      @apply font-title;
-      font-size: 20px;
-      font-weight: 500;
-      line-height: 28px;
-      letter-spacing: 0px;
+    @apply font-title;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0px;
   }
 
   .p-300 {
-      @apply font-sans;
-      font-size: 18px;
-      font-weight: 300;
-      line-height: 24px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 24px;
+    letter-spacing: 0px;
   }
 
   .p-400 {
-      @apply font-sans;
-      font-size: 18px;
-      font-weight: 400;
-      line-height: 24px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0px;
   }
 
   .p-500 {
-      @apply font-sans;
-      font-size: 18px;
-      font-weight: 500;
-      line-height: 24px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0px;
   }
 
   .p-700 {
-      @apply font-sans;
-      font-size: 18px;
-      font-weight: 700;
-      line-height: 24px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0px;
   }
 
   .b1-300 {
-      @apply font-sans;
-      font-size: 16px;
-      font-weight: 300;
-      line-height: 20px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 20px;
+    letter-spacing: 0px;
   }
 
   .b1-400 {
-      @apply font-sans;
-      font-size: 16px;
-      font-weight: 400;
-      line-height: 20px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0px;
   }
 
   .b1-500 {
-      @apply font-sans;
-      font-size: 16px;
-      font-weight: 500;
-      line-height: 20px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0px;
   }
 
   .b1-700 {
-      @apply font-sans;
-      font-size: 16px;
-      font-weight: 700;
-      line-height: 20px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0px;
   }
 
   .b2-300 {
-      @apply font-sans;
-      font-size: 14px;
-      font-weight: 300;
-      line-height: 16px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 16px;
+    letter-spacing: 0px;
   }
 
   .b2-400 {
-      @apply font-sans;
-      font-size: 14px;
-      font-weight: 400;
-      line-height: 16px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0px;
   }
 
   .b2-500 {
-      @apply font-sans;
-      font-size: 14px;
-      font-weight: 500;
-      line-height: 16px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16px;
+    letter-spacing: 0px;
   }
 
   .b2-700 {
-      @apply font-sans;
-      font-size: 14px;
-      font-weight: 700;
-      line-height: 16px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0px;
   }
 
   .s-300 {
-      @apply font-sans;
-      font-size: 12px;
-      font-weight: 300;
-      line-height: 16px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 16px;
+    letter-spacing: 0px;
   }
 
   .s-400 {
-      @apply font-sans;
-      font-size: 12px;
-      font-weight: 400;
-      line-height: 16px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0px;
   }
 
   .s-400-i {
-      @apply font-sans;
-      font-size: 12px;
-      font-weight: Italic;
-      line-height: 16px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 12px;
+    font-weight: Italic;
+    line-height: 16px;
+    letter-spacing: 0px;
   }
 
   .s-700 {
-      @apply font-sans;
-      font-size: 12px;
-      font-weight: 700;
-      line-height: 16px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 16px;
+    letter-spacing: 0px;
   }
 
   .xs-300 {
-      @apply font-sans;
-      font-size: 10px;
-      font-weight: 300;
-      line-height: 12px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 10px;
+    font-weight: 300;
+    line-height: 12px;
+    letter-spacing: 0px;
   }
 
   .xs-400 {
-      @apply font-sans;
-      font-size: 10px;
-      font-weight: 400;
-      line-height: 12px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 10px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 0px;
   }
 
   .xs-700 {
-      @apply font-sans;
-      font-size: 10px;
-      font-weight: 700;
-      line-height: 12px;
-      letter-spacing: 0px;
+    @apply font-sans;
+    font-size: 10px;
+    font-weight: 700;
+    line-height: 12px;
+    letter-spacing: 0px;
   }
 }
-
