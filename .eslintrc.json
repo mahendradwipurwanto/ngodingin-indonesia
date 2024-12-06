@@ -1,0 +1,4 @@
+{
+  "extends": ["next/core-web-vitals", "next/typescript", "prettier"],
+  "plugins": ["prettier", "@typescript-eslint", "react", "react-hooks"]
+}
